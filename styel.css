@@ -1,0 +1,138 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 70px;
+    margin-left: 20px;
+}
+.container{
+    height: 500px;
+    display: flex;
+    margin-bottom: 150px;
+    background-color: blue;
+}
+.main{
+   
+   height: 100px;
+}
+.football{
+    width: 50%;
+    padding-left: 2%;
+}
+.football img{
+    width: 80%;
+    margin-right: 20px;
+    margin-top: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orangered ,tomato);
+    padding: 15px 30px;
+    color: white;
+    font-weight: 700;   
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.players{
+    margin-right: 7.5%;
+    margin-left: 2.5%;
+
+    padding: 20px;
+}
+.players img{
+    width: 200px;  
+}
+.experiences-tools h1{
+    font-size: 35px;
+    margin-top: 30px;
+    text-align: center;
+   
+}
+.experiences-item p{
+    font-size: 15px;
+}
+.experiences-item{
+    margin-right: 5.5%;
+    margin-left: 1.5%;
+    margin-top: 20px;
+    box-shadow: 10px 10px 20px rgb(212, 199, 199);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.pragraph  p{
+    text-align: center;
+    font-size: 15px;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.paris-logo{
+    display: flex;
+}
+.paris-logo img{
+    width: 300px;  
+}
+.extra{
+    height: 500px;
+    display: flex;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    background-color: white;
+
+    
+}
+.maini p{
+    font-size: 15px;
+}
+.maini{
+    height: 100px;
+    background-color: white;
+}
+.foot-ball{
+    width: 50%;
+    padding-left: 2%;
+}
+.foot-ball img{
+    width: 80%;
+    margin-right: 20px;
+    margin-top: 50px;
+}
+h2{
+    font-size: 15px;
+}
+p{
+    font-size: 10px;
+}
+.fotter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+}
+.high{
+    text-align: center;
+}
+.high img{
+    width: 30%;
+    margin-right: 20px;
+    margin-top: 0px;
+}
+
+.icons{
+    text-align: center;
+    
+}
+.icons img{
+    width: 30px;
+    height: 32px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+footer p{
+    text-align: center;
+}
+
+
+
